@@ -5,7 +5,7 @@ This Power BI dashboard provides a comprehensive analysis of road accident data 
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="./Road_accident.png" alt="Road_accident.png" width="800">
+  <img src="./Road_accident .png" alt="Road_accident.png" width="800">
 </p>
 
 ## 📦 Requirements
